@@ -1,0 +1,1 @@
+An Autoencoder is a type of neural network that learns efficient representations of data in an unsupervised manner. Its main goal is to reconstruct the input as accurately as possible after compressing it into a smaller representation.
